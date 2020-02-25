@@ -1,5 +1,5 @@
-# git_guide
-# Git Basics Cheatsheet
+
+## Git Basics Cheatsheet
 
 This cheatsheet is a list of our most used Git commands and useful information for those who are getting started.
 
